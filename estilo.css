@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(to right, turquoise, rgb(17, 74, 153), aquamarine);
+}
+
+#image{
+    width: 500px;
+    height: 500px;
+    margin-left: 30%;
+}
